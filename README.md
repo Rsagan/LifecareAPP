@@ -5,21 +5,21 @@
 
 ---
 
-## 📱 Funcionalidades
+##  Funcionalidades
 
-- ✅ Criação e edição de hábitos com diferentes frequências (diária, semanal, mensal)
-- ⏳ Acompanhamento de tempo restante e progresso do hábito
-- 🔔 Notificações simuladas e lembretes
-- 🧠 Mensagens motivacionais automáticas
-- 🥇 Confetes animados ao completar um hábito
-- 📦 Suporte a login e autenticação com Firebase
-- ☁️ Armazenamento e sincronização de hábitos em tempo real com Firebase Firestore
-- 🌈 Interface amigável com design em tons de verde e animações suaves
-- 📋 Reordenação de hábitos com lista arrastável
+-  Criação e edição de hábitos com diferentes frequências (diária, semanal, mensal)
+-  Acompanhamento de tempo restante e progresso do hábito
+-  Notificações simuladas e lembretes
+-  Mensagens motivacionais automáticas
+-  Confetes animados ao completar um hábito
+-  Suporte a login e autenticação com Firebase
+-  Armazenamento e sincronização de hábitos em tempo real com Firebase Firestore
+-  Interface amigável com design em tons de verde e animações suaves
+-  Reordenação de hábitos com lista arrastável
 
 ---
 
-## 🚀 Instalação
+##  Instalação
 
 ### 1. Pré-requisitos
 
